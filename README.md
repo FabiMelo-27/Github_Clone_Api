@@ -30,4 +30,4 @@ Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENS
 Se você tiver alguma dúvida ou sugestão, entre em contato pelo e-mail: fabiola.g.melo@outlook.com
 
 
-
+<img src="Captura de tela 2024-09-19 141028.png"/>
